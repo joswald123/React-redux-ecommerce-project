@@ -8,7 +8,6 @@ const Homepage = props => {
         <section className="homepage">
             <Directory />
         </section>
-
     );
 };
 
